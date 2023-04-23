@@ -3,10 +3,6 @@
 
 - 🌱 I’m currently learning **Algorithmic Trading**
 
-- 👨‍💻 All of my projects are available at [rohanmorar@netlify.app](rohanmorar@netlify.app)
-
-- 📝 I regularly write articles on [rohanmorar@netlify.app](rohanmorar@netlify.app)
-
 - 📫 How to reach me **rohanmorar@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/rohanm-resume](https://tinyurl.com/rohanm-resume)
