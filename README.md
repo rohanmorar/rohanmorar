@@ -1,4 +1,6 @@
 <img  align="center" style="height: 380px" src="logo.png" alt="the text 'rohan morar' in a hand-written appearance">
+
+
 <h3 align="center">A creative, detail-oriented, software engineer with a deep interest in Machine Learning.</h3>
 
 - 🌱 I’m currently learning **Algorithmic Trading**
